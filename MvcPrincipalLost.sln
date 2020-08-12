@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcPrincipalLost.Business", "MvcPrincipalLost.Business\MvcPrincipalLost.Business.csproj", "{D65200B5-8D7A-4840-8DEF-0C9945E3CBA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB6EEE74-7019-4D2E-98F8-208E38297F6F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp", "MvcApp\MvcApp.csproj", "{A7F74044-296F-42DD-9E76-8B1852A26E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65200B5-8D7A-4840-8DEF-0C9945E3CBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65200B5-8D7A-4840-8DEF-0C9945E3CBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65200B5-8D7A-4840-8DEF-0C9945E3CBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65200B5-8D7A-4840-8DEF-0C9945E3CBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F74044-296F-42DD-9E76-8B1852A26E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F74044-296F-42DD-9E76-8B1852A26E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F74044-296F-42DD-9E76-8B1852A26E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F74044-296F-42DD-9E76-8B1852A26E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C7DBEE-3434-4BD8-A67E-0C52A5005D5D}
+	EndGlobalSection
+EndGlobal
